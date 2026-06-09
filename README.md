@@ -13,7 +13,7 @@ Copy this folder into your Cursor skills directory:
 Or clone into that path:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cardinal-skill.git ~/.cursor/skills/cardinal-design-system
+git clone https://github.com/soup2964-spec/cardinal-skill.git ~/.cursor/skills/cardinal-design-system
 ```
 
 ## Files
